@@ -1,26 +1,28 @@
-# Terms of Use for PureLens
-**Last Updated:** May 3, 2026
+Terms of Use for PureLens
 
-Welcome to PureLens, your professional tool for cinematic content creation. By downloading or using the app, you agree to the following terms:
+Effective Date: May 2026
 
-## 1. General Use
-Users are granted a personal, non-exclusive, and non-transferable license to use the app for video editing and content creation.
+By downloading or using PureLens, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app.
 
-## 2. PureLens AI Pro Subscription
-* The app offers an auto-renewing monthly subscription (priced at 19.99 SAR or equivalent in your local currency) that unlocks full access to AI features, 4K export, ad removal, and watermark removal.
-* Payment will be charged to your Apple ID account at confirmation of purchase.
-* The subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period.
-* Your account will be charged for renewal within 24 hours prior to the end of the current period.
-* You can manage your subscriptions and turn off auto-renewal by going to your Account Settings on the App Store after purchase.
+1. General Use
+PureLens provides professional video editing tools, cinematic filters (LUTs), and AI-assisted editing features. You are solely responsible for the content you create and share using the app.
 
-## 3. AI Assistant Feature
-The app utilizes advanced AI technologies to analyze text prompts and apply editing settings. While we strive for the best results, we do not guarantee exact accuracy for edits applied based on text commands. Manual editing tools remain available as an alternative.
+2. AI Assistant Disclaimer
+The AI Assistant feature uses artificial intelligence to interpret your text prompts and apply corresponding video edits (e.g., speed ramping, filters, background blur). Due to the nature of AI, results may vary based on the clarity of your instructions. We do not guarantee that the AI will always execute commands with 100% accuracy or perfectly match your expectations.
 
-## 4. Content Sharing (Snapchat & Others)
-You are solely responsible for the content you export and share via Snapchat or any other platform. Your content must comply with the terms of service and community guidelines of those respective platforms.
+3. PureLens Pro Subscriptions
+PureLens offers premium features through an auto-renewing subscription ("PureLens Pro"). By subscribing, you agree to the following terms:
+• Payment will be charged to your Apple ID account at confirmation of purchase.
+• The subscription automatically renews unless auto-renewal is turned off at least 24 hours before the end of the current billing period.
+• Your account will be charged for renewal within 24 hours prior to the end of the current period.
+• You can manage your subscriptions and turn off auto-renewal by going to your Account Settings on the App Store after purchase.
+• Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.
 
-## 5. Disclaimer of Warranties
-The app is provided on an "as is" and "as available" basis without warranties of any kind, either express or implied. We are not responsible for any data loss or unsaved videos while using the application.
+4. Intellectual Property
+All intellectual property rights in PureLens, including its design, filters, codebase, and original content, belong to the developer. You may not copy, modify, or distribute any part of the app without permission.
 
-## 6. Changes to Terms
-We may update our Terms of Use from time to time. You are advised to review this page periodically for any changes.
+5. Limitation of Liability
+PureLens is provided "as is" and "as available" without warranties of any kind. The developer shall not be liable for any indirect, incidental, or consequential damages arising from the use of the app, including any loss of data or media.
+
+6. Changes to Terms
+We reserve the right to update or modify these Terms of Use at any time. Continued use of the app after any such changes shall constitute your consent to such changes.
