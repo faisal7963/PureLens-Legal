@@ -1,25 +1,23 @@
-# Privacy Policy for PureLens
-**Last Updated:** May 3, 2026
+Privacy Policy for PureLens
 
-At PureLens (Developer: Faisal Al-Qahtani), your privacy is our top priority. This Privacy Policy describes how we handle your data when you use our application.
+Effective Date: May 2026
 
-## 1. Media Processing (Photos and Videos)
-All video processing, cinematic filters (LUTs) application, background blur, and audio enhancements are performed **strictly locally** on your device. We do not upload, store, or share any of your photos or videos to any external servers.
+Welcome to PureLens. Your privacy is of paramount importance to us. This Privacy Policy outlines how we handle your information when you use our mobile application ("PureLens").
 
-## 2. AI Features (AI Assistant)
-When you use the "AI Assistant" feature, **only the text prompts and commands** you type are sent to Google's servers (via the Gemini API) to analyze the request and return the appropriate editing settings. Absolutely no media files (photos/videos) are sent with these requests.
+1. Information We DO NOT Collect (Your Media is Safe)
+PureLens is designed as a privacy-first video editing application. All photo and video processing, rendering, and applying of filters or background blur are performed entirely ON-DEVICE. We DO NOT upload, store, or share your personal photos or videos to any external servers. Your media stays on your device.
 
-## 3. Third-Party Services
-The app uses third-party services that may collect anonymous information to provide their services:
-* **Google AdMob:** To provide advertisements (in the free version).
-* **Apple StoreKit:** To securely process in-app purchases and subscriptions.
-* **SnapKit API:** To facilitate sharing videos directly to Snapchat (subject to Snap Inc.'s privacy policy).
+2. Third-Party Services & AI Integration
+To provide advanced features and maintain the free version of our app, we use specific third-party services:
 
-## 4. Analytics Data
-We may collect generic, non-personally identifiable data (such as app crash logs or usage statistics) solely for the purpose of improving performance and developing new features.
+• AI Assistant (Google Gemini API): PureLens features an AI Assistant that interprets your text commands to apply video edits. When you use this feature, ONLY the text prompt you type is sent to Google's Gemini API for analysis. Your photos and videos are NEVER sent to Google.
+• Advertising (Google AdMob): The free version of PureLens uses Google AdMob to display advertisements. AdMob may collect non-personally identifiable information, such as device identifiers and usage data, to provide personalized ads. 
 
-## 5. Changes to This Policy
-We reserve the right to update this Privacy Policy at any time. Your continued use of the app constitutes your acceptance of these changes.
+3. App Tracking Transparency (ATT)
+We respect your tracking preferences. PureLens will request your permission through Apple’s App Tracking Transparency framework before tracking your activity across other companies’ apps and websites for targeted advertising. You can change your preference at any time in your iOS device's Settings.
 
-## 6. Contact Us
-If you have any questions regarding this Privacy Policy, please contact us via the support options provided in the App Store.
+4. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+5. Contact Us
+If you have any questions or suggestions about our Privacy Policy, please contact us.
